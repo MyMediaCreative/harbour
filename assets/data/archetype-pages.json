@@ -4,7 +4,7 @@
             "title": "The Artist",
             "path": "/artist",
             "seoDesc": "This is SEO description",
-            "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1657362375/the%20harbour/archetype%20illustrations/Artist_gblz0z.png",
+            "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_2000/v1657362375/the%20harbour/archetype%20illustrations/Artist_gblz0z.png",
             "mobileheaderimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1657362432/the%20harbour/archetype%20illustrations/Artist-square_ejnhps.png",
             "quote": "The role of the artist is to make <br />the revolution irresistible.",
             "quoteFrom": "Toni Cade Bamabara",
@@ -37,7 +37,7 @@
                 }
             ],
             "inActionBlurb": "We met with dozens of young leaders across the country to explore the different ways you can <br/> take action against climate change. Here are some of their stories.",
-            "inActionVid": "https://vimeo.com/681645746?embedded=true&source=vimeo_logo&owner=167818781",
+            "inActionVid": "https://vimeo.com/734166691?embedded=true&source=vimeo_logo&owner=167818781",
             "starterPack": "",
             "careers": "Digital Designer • Facilitator • Curator • Musician"
         },
@@ -78,7 +78,7 @@
                 }
             ],
             "inActionBlurb": "We met with dozens of young leaders across the country to explore the different ways you can <br/> take action against climate change. Here are some of their stories.",
-            "inActionVid": "https://vimeo.com/681645746?embedded=true&source=vimeo_logo&owner=167818781",
+            "inActionVid": "https://vimeo.com/734166691?embedded=true&source=vimeo_logo&owner=167818781",
             "starterPack": "",
             "careers": "Climate Journalist • Documentary Filmmaker • Influencer • Climate Fiction Author"
         },
