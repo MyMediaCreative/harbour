@@ -10,19 +10,19 @@ import AboutCard from "../components/about-card"
 const About = ({ homepage }) => {
 
     let tristan = { name: "Tristan Surman",
-                    image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_800/v1657729362/the%20harbour/about%20page/Tristan_jn2efy.png",
+                    image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1100/v1657729362/the%20harbour/about%20page/Tristan_jn2efy.png",
                     li: "https://www.linkedin.com/in/tristan-surman/",
                     desc: <>"I wish I could tell my younger self that one day I’d be making BuzzFeed quizzes for social change. It’d totally freak him out."</>,  };
     let ella    = { name: "Ella Roy",
-                    image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_800/v1657729362/the%20harbour/about%20page/Ella_xflzcb.png",
+                    image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1100/v1657729362/the%20harbour/about%20page/Ella_xflzcb.png",
                     li: "https://www.linkedin.com/in/ella-roy-433948156/",
                     desc: <>"A little quote about what the harbour means to Boss Man Ella"</>,  };
     let tony    = { name: "Tony Wang",
-                    image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_800/v1657729361/the%20harbour/about%20page/Tony_eay37u.png",
+                    image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1100/v1657729361/the%20harbour/about%20page/Tony_eay37u.png",
                     li: "https://www.linkedin.com/in/tonywang99/",
                     desc: <>"A little quote about what the harbour means to Boss Man Tony"</>,  };
     let liam    = { name: "Liam Chung",
-                    image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_800/v1657729362/the%20harbour/about%20page/Liam_w9pgs7.png",
+                    image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1100/v1657729362/the%20harbour/about%20page/Liam_w9pgs7.png",
                     li: "https://www.linkedin.com/in/liam-chung-9121a4151/",
                     desc: <>"A little quote about what the harbour means to Liam"</>,  };
 
