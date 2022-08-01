@@ -1,0 +1,146 @@
+/* these are for specific style changes between mobile and desktop */
+@media only screen and (max-width: 767px) {
+  .reg { display: none !important }
+  br { display: none !important }
+  br.stay { display: block !important }
+}
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .mobile { display: none !important }
+}
+
+
+
+
+
+#main-content { width: var(--content-width); transition: .8s ease-out; margin-left: auto; margin-right: auto }
+
+/* here we set the basics. each size has a dedicated variable, which will be tweaked for each screen size below.*/
+/* each screen size also has a foundational font size var to make the size measurements relative to the size of an h6 */
+
+/* each size is labeled with its corresponding size in the figma mock  */
+
+/* h1 60 */
+h1 { font-size: calc(var(--h1) * var(--font-size)) }
+
+/* h2 70 */
+h2 { font-size: calc(var(--h2) * var(--font-size)) }
+
+/* h3 40 */
+h3 { font-size: calc(var(--h3) * var(--font-size)) }
+
+/* h4 35 */
+h4 { font-size: calc(var(--h4) * var(--font-size)) }
+
+/* h5 30 */
+h5 { font-size: calc(var(--h5) * var(--font-size)) }
+
+/* h6 20 */
+h6 { font-size: calc(var(--h6) * var(--font-size)) }
+
+/* p: 25 */
+p { font-size: calc(var(--p) * var(--font-size)) }
+
+/* btn: 20 */
+a { font-size: calc(var(--a) * var(--font-size)) }
+
+
+@media only screen and (min-width: 425px) {
+  :root { --content-width: 80vw }
+  :root { --font-size: 15px }
+
+  :root { --h1: 2.2 }
+  :root { --h2: 2.5 }
+  :root { --h3: 1.6 }
+  :root { --h4: 1.4 }
+  :root { --h5: 1.2 }
+  :root { --h6: 0.8 }
+  :root { --p: 1 }
+  :root { --a: 0.8 }
+}
+
+@media only screen and (min-width: 600px) {
+  :root { --content-width: 80vw }
+  :root { --font-size: 15px }
+
+  :root { --h1: 2.2 }
+  :root { --h2: 2.5 }
+  :root { --h3: 1.6 }
+  :root { --h4: 1.4 }
+  :root { --h5: 1.2 }
+  :root { --h6: 0.8 }
+  :root { --p: 1 }
+  :root { --a: 0.8 }
+}
+
+@media only screen and (max-width: 424px) {
+  :root { --content-width: 80vw }
+  :root { --font-size: 15px }
+
+  :root { --h1: 2.2 }
+  :root { --h2: 2.3 }
+  :root { --h3: 1.6 }
+  :root { --h4: 1.4 }
+  :root { --h5: 1.2 }
+  :root { --h6: 0.8 }
+  :root { --p: 1 }
+  :root { --a: 0.8 }
+}
+/* here and below is ""DESKTOP"" */
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  /* #main-content { width: 680px } */
+  :root { --content-width: 735px }
+  :root { --font-size: 14px }
+
+  :root { --h1: 2.2 }
+  :root { --h2: 2.5 }
+  :root { --h3: 1.6 }
+  :root { --h4: 1.4 }
+  :root { --h5: 1.2 }
+  :root { --h6: 0.8 }
+  :root { --p: 1 }
+  :root { --a: 0.8 }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 1000px) {
+  /* #main-content { width: 862px } */
+  :root { --content-width: 862px }
+  :root { --font-size: 15px }
+
+  :root { --h1: 2.2 }
+  :root { --h2: 2.5 }
+  :root { --h3: 1.6 }
+  :root { --h4: 1.4 }
+  :root { --h5: 1.2 }
+  :root { --h6: 0.8 }
+  :root { --p: 1 }
+  :root { --a: 0.8 }
+}
+
+ /* Extra large devices */
+@media only screen and (min-width: 1200px) {
+  /* #main-content { width: 1050px } */
+  :root { --content-width: 1130px }
+  :root { --font-size: 17px }
+
+  :root { --h1: 2.2 }
+  :root { --h2: 2.5 }
+  :root { --h3: 1.6 }
+  :root { --h4: 1.4 }
+  :root { --h5: 1.2 }
+  :root { --h6: 0.8 }
+  :root { --p: 1 }
+  :root { --a: 0.8 }
+}
+
+/* Extra EXTRA Large devices */
+@media only screen and (min-width: 1640px) {
+  /* #main-content { width: 1320px } */
+  :root { --content-width: 1320px }
+  :root { --font-size: 21px }
+}
