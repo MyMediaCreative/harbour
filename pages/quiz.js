@@ -130,7 +130,7 @@ const Quiz = ({ homepage }) => {
              </>
             }
             {quizPg == 8 &&
-             <a href={"/" + calcResult().toLowerCase()} className="arrow-link quizNext">Get Your Result!</a>
+             <a href={"/archetypes/" + calcResult().toLowerCase()} className="arrow-link quizNext">Get Your Result!</a>
             }
           </div>
 
