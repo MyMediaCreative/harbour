@@ -293,7 +293,7 @@ a:visited { color: inherit; text-decoration: none }
   transform: translateX(-6px);
 }
 @media only screen and (max-width: 767px) {
-  .footer .socials svg { height: 35px; margin: 0 }
+  .footer .socials svg { height: 29px; margin: 0 3px }
 }
 
 /*----------- HOME STYLING ------------- */
@@ -310,7 +310,6 @@ a:visited { color: inherit; text-decoration: none }
 .img-con img {
   min-width: 800px;
   margin-bottom: 0;
-  transform: translateY(4px);
 }
 @media only screen and (max-width: 767px) {
   .img-con {
