@@ -247,7 +247,9 @@ a:visited { color: inherit; text-decoration: none }
   text-align: right;
   margin-right: 35px;
 }
-.nav-overlay-menu a { font-size: 25px }
+.nav-overlay-menu a:visited,
+.nav-overlay-menu a:hover,
+.nav-overlay-menu a { color: black; font-size: 25px }
 .nav-overlay-menu li { margin-bottom: 25px }
 
 
@@ -302,18 +304,28 @@ a:visited { color: inherit; text-decoration: none }
   text-align: center;
 }
 
-.img-con { text-align: center; display: flex; justify-content: center }
+.img-con {
+  display: flex; justify-content: center;
+}
 .img-con img {
   min-width: 800px;
   margin-bottom: 0;
   transform: translateY(4px);
 }
 @media only screen and (max-width: 767px) {
+  .img-con {
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: 50vw;
+    width: 100vw;
+    background-position: right center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+  }
   .img-con img {
-    transform: none;
-    min-width: unset;
-    margin-bottom: 30px;
-    width: 80%;
+    min-width: 600px;
   }
 }
 
