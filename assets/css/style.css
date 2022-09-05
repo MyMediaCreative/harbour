@@ -548,11 +548,12 @@ a:visited { color: inherit; text-decoration: none }
   column-gap: 50px;
   position: relative;
 }
+.arch-profile * { margin-bottom: 5px }
+
 @media only screen and (max-width: 767px) {
   .arch-profile { grid-template-columns: 1fr; row-gap: 30px }
 }
 
-.arch-profile * { margin-bottom: 5px }
 
 .in-action-vid {
   position: relative;
