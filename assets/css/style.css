@@ -193,7 +193,6 @@ a:visited { color: inherit; text-decoration: none }
 .hamburger {
   grid-column: 3 / 4;
   height: 60%;
-  transform: translateX(-15%);
   cursor: pointer;
   text-align: right;
 }
@@ -293,7 +292,7 @@ a:visited { color: inherit; text-decoration: none }
   transform: translateX(-6px);
 }
 @media only screen and (max-width: 767px) {
-  .footer .socials svg { height: 29px; margin: 0 3px }
+  .footer .socials svg { height: 27px; margin: 0 4px }
 }
 
 /*----------- HOME STYLING ------------- */
@@ -419,6 +418,14 @@ a:visited { color: inherit; text-decoration: none }
   align-items: center;
   justify-content: center;
   transition: .15s ease-out;
+}
+
+@media only screen and (max-width: 767px) {
+  .labels label {
+    margin-right: 2vw; margin-left: 2vw
+  }
+  .labels label:nth-of-type(1) h4 { transform: translateX(8vw) }
+  .labels label:nth-of-type(7) h4 { transform: translateX(-8vw) }
 }
 
 .checkmark {
