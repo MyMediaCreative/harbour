@@ -16,7 +16,7 @@ const About = ({ homepage }) => {
     let ella    = { name: "Ella Roy",
                     image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1100/v1657729362/the%20harbour/about%20page/Ella_xflzcb.png",
                     li: "https://www.linkedin.com/in/ella-roy-433948156/",
-                    desc: <>"Testing Site Changes"</>,  };
+                    desc: <>"A little quote about what the harbour means to Liam"</>,  };
     let tony    = { name: "Tony Wang",
                     image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1100/v1657729361/the%20harbour/about%20page/Tony_eay37u.png",
                     li: "https://www.linkedin.com/in/tonywang99/",
@@ -73,7 +73,7 @@ const About = ({ homepage }) => {
                 </p>
               </div>
               <div>
-                <img src="https://res.cloudinary.com/mymediacreative/image/upload/v1665871683/the%20harbour/about%20page/FES_square_left_transparent_zn0ftj.png" alt="My Media Creative Logo" />
+                <img src="https://res.cloudinary.com/mymediacreative/image/upload/v1665872565/the%20harbour/about%20page/FESnew_iueje0.png" alt="My Media Creative Logo" />
               </div>
           </div>
 
@@ -81,13 +81,6 @@ const About = ({ homepage }) => {
             <Spacer h="30px" />
             <Divider />
           </div>
-
-            <Spacer h="30px" />
-          <h1>Our Partners</h1>
-
-          <Spacer h="130px" />
-          <Divider b="0"/>
-        </div>
 
         <div className="abt-rows">
           <AboutCard person={tristan} />
