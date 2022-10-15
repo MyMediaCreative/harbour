@@ -16,7 +16,7 @@ const About = ({ homepage }) => {
     let ella    = { name: "Ella Roy",
                     image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1100/v1657729362/the%20harbour/about%20page/Ella_xflzcb.png",
                     li: "https://www.linkedin.com/in/ella-roy-433948156/",
-                    desc: <>"A little quote about what the harbour means to Boss Man Ella"</>,  };
+                    desc: <>"Testing Site Changes"</>,  };
     let tony    = { name: "Tony Wang",
                     image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1100/v1657729361/the%20harbour/about%20page/Tony_eay37u.png",
                     li: "https://www.linkedin.com/in/tonywang99/",
