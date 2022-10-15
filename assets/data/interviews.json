@@ -61,23 +61,122 @@
             ]
         },
         {
-            "name": "Alison Gu",
-            "path": "/alison",
+            "name": "Tony",
+            "path": "/tony",
             "seoDesc": "This is SEO description",
-            "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1665789277/the%20harbour/interviews/alison_xxbhns.png",
-            "age": "25",
-            "occupation": "Burnaby City Councillor",
-            "oneQ": "My climate origin story:",
-            "oneA": "I started caring about the environment at a very young age. In second grade, I remember learning about how much water is used with each toilet flush, which first got me concerned about the environment. In high-school, I was president of our environmental club, and then in University, became the VP Environment of our Residents Council. In my second year of university, I started getting involved with climate work in more of an activist way rather than an advocacy oriented way. With Divest McGill, I learned how to organise and mobilise people around one common goal with a political orientation. In 2017, I cycled from Ottawa to Burnaby, against the Trans Mountain Expansion Pipeline. At this time, I also raised money for the indigenous nations, taking the project to court and fighting it. As I was getting very deeply involved in climate organising, I also got involved with the 2019 climate strikes and realised that a lot of what was holding up climate work was political will or lack thereof. And that’s when I started thinking about going into politics.",
-            "twoQ": "A useful skill of mine:",
-            "twoA": "I will preface this answer by noting that the job that you do to get elected is fundamentally different and requires very different skills from the job you do once you’re in office. And just because you’re skilled at one doesn’t mean you’re good at the other. But with respect to the skills that you need after getting into elected office, the first one would probably be being able to work with people. You're working with people in every aspect of your role, and often you're working with people who are upset with you or frustrated with the way things are. People are also the ones who implement policy. As an elected official, you might be the one guiding policy but they’re the ones who will enforce it on the ground. So being able to understand what is needed and what the barriers are to making something happen is a really, really important skill. Another piece that is important is being able to recognize small wins and recognize that not every win is going to be a big win in local politics. You're very restricted by provincial legislation around what you can and cannot do, which means that the kinds of seemingly larger and more impactful decisions are not up to you. We don’t necessarily have control, and our decisions are often overridden by senior levels of government. Coming from being a climate activist and an organiser, I had to learn that smaller decisions we make at a local level still have a hugely impactful ripple effect.",
-            "threeQ": "A piece of advice:",
-            "threeA": "Take every battle squarely on your shoulders. When something doesn’t go as expected, it’s not always your responsibility, your fault or your loss. It’s important not to wear that emotionally. I used to think that empathy was the greatest skill of all time and the most important thing to practise in your everyday life. But on the flip side of that is doing what you need to in order to sustain yourself and retain the energy to keep going. And part of that is not seeing every loss as a step backwards for yourself or your movement. Everyone has their own niche about what they care about most and how they want to affect change, and every piece of that is truly, truly needed. I think the best way to think about it is that we need everybody to do something imperfectly rather than a few people doing it perfectly. I often find my emotions getting wrapped up in the work that I’m doing, where something not going as planned feels like a loss that I wear on my shoulders. But that really wears you down over time and means you're not as resilient or not as strong to do other things. So it’s important to recharge, to make sure that you’re well. When things start feeling too much or too big, break it down into what you can do and what actionable changes you can make.",
+            "headline": "a guy with a camera",
+            "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1646091923/about/Tony_2_bxu33u.png",
+            "age": "23",
+            "occupation": "Math Man",
+            "intro": "Introductory paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+            "oneQ": "This is the first question",
+            "oneA": "This is the first answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+            "avgDay": [
+                {
+                    "time": "8:00 AM",
+                    "activity": "Activity",
+                    "description": "Activity description"
+                },
+                {
+                    "time": "9:00 AM",
+                    "activity": "Activity",
+                    "description": "Activity description"
+                },
+                {
+                    "time": "10:00 AM",
+                    "activity": "Activity",
+                    "description": "Activity description"
+                },
+                {
+                    "time": "11:00 AM",
+                    "activity": "Activity",
+                    "description": "Activity description"
+                }
+            ],
+            "twoQ": "This is the second question",
+            "twoA": "This is the second answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+            "threeQ": "This is the third question",
+            "threeA": "This is the third answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
             "starterPack": [
                 {
-                    "title": "Knock down the House",
-                    "type": "Documentary",
-                    "link": "https://knockdownthehouse.com"
+                    "title": "Resource Title",
+                    "type": "Resource Type",
+                    "link": "https://github.com"
+                },
+                {
+                    "title": "Resource Title",
+                    "type": "Resource Type",
+                    "link": "https://github.com"
+                },
+                {
+                    "title": "Resource Title",
+                    "type": "Resource Type",
+                    "link": "https://github.com"
+                },
+                {
+                    "title": "Resource Title",
+                    "type": "Resource Type",
+                    "link": "https://github.com"
+                }
+            ]
+        },
+        {
+            "name": "Dom Petti",
+            "path": "/dompetti",
+            "seoDesc": "This is SEO description",
+            "headline": "a guy with a camera",
+            "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1645693934/blog-placeholder_csxpbc.png",
+            "age": "23",
+            "occupation": "Math Man",
+            "intro": "Introductory paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+            "oneQ": "This is the first question",
+            "oneA": "This is the first answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+            "avgDay": [
+                {
+                    "time": "8:00 AM",
+                    "activity": "Activity",
+                    "description": "Activity description"
+                },
+                {
+                    "time": "9:00 AM",
+                    "activity": "Activity",
+                    "description": "Activity description"
+                },
+                {
+                    "time": "10:00 AM",
+                    "activity": "Activity",
+                    "description": "Activity description"
+                },
+                {
+                    "time": "11:00 AM",
+                    "activity": "Activity",
+                    "description": "Activity description"
+                }
+            ],
+            "twoQ": "This is the second question",
+            "twoA": "This is the second answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+            "threeQ": "This is the third question",
+            "threeA": "This is the third answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+            "starterPack": [
+                {
+                    "title": "Resource Title",
+                    "type": "Resource Type",
+                    "link": "https://github.com"
+                },
+                {
+                    "title": "Resource Title",
+                    "type": "Resource Type",
+                    "link": "https://github.com"
+                },
+                {
+                    "title": "Resource Title",
+                    "type": "Resource Type",
+                    "link": "https://github.com"
+                },
+                {
+                    "title": "Resource Title",
+                    "type": "Resource Type",
+                    "link": "https://github.com"
                 }
             ]
         }
