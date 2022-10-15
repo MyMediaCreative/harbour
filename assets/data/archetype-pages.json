@@ -17,11 +17,23 @@
             "fourTitle": "The Artist believes in creativity as a powerful tool for changemaking.",
             "fourP": "You have a unique ability to make people feel heard and seen. And that’s the first step in making someone feel empowered. Whether or not you’re an artist in the conventional sense, you can best support the fight against climate change by mobilizing, educating, and inspiring those around you. Check out the resources below to find out how The Artist champions climate action.",
             "inAction": [
-                {
-                    "img": "https://res.cloudinary.com/mymediacreative/image/upload/v1645693934/blog-placeholder_csxpbc.png",
+               {
+                    "img": "",
                     "name": "Jane Doe",
                     "career": "Cool job",
                     "path": "/testjane"
+                },
+                {
+                    "img": "",
+                    "name": "Jane Doe",
+                    "career": "Cool job",
+                    "path": "/testjane"
+                },
+                {
+                    "img": "",
+                    "name": "Dom Petti",
+                    "career": "Math Man",
+                    "path": "/dompetti"
                 }
             ],
             "inActionBlurb": "We met with dozens of young leaders across the country to explore the different ways you can take action against climate change. Here are some of their stories.",
