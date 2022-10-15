@@ -73,7 +73,7 @@ const About = ({ homepage }) => {
                 </p>
               </div>
               <div>
-                <img src="https://res.cloudinary.com/mymediacreative/image/upload/v1646253292/MMC_Logo-01_zmy7c4.png" alt="My Media Creative Logo" />
+                <img src="https://res.cloudinary.com/mymediacreative/image/upload/v1665871683/the%20harbour/about%20page/FES_square_left_transparent_zn0ftj.png" alt="My Media Creative Logo" />
               </div>
           </div>
 
