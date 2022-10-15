@@ -77,16 +77,6 @@ const About = ({ homepage }) => {
               </div>
           </div>
 
-          <div style={{position: "relative"}}>
-            <Spacer h="30px" />
-            <Divider />
-          </div>
-
-            <Spacer h="30px" />
-          <h1>Our Partners</h1>
-
-          <Spacer h="130px" />
-          <Divider b="0"/>
         </div>
 
         <div className="abt-rows">
