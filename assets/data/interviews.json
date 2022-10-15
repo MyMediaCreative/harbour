@@ -71,28 +71,6 @@
             "intro": "Introductory paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
             "oneQ": "This is the first question",
             "oneA": "This is the first answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
-            "avgDay": [
-                {
-                    "time": "8:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
-                },
-                {
-                    "time": "9:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
-                },
-                {
-                    "time": "10:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
-                },
-                {
-                    "time": "11:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
-                }
-            ],
             "twoQ": "This is the second question",
             "twoA": "This is the second answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
             "threeQ": "This is the third question",
