@@ -22,22 +22,10 @@
                     "name": "Jane Doe",
                     "career": "Cool job",
                     "path": "/testjane"
-                },
-                {
-                    "img": "https://res.cloudinary.com/mymediacreative/image/upload/v1645693934/blog-placeholder_csxpbc.png",
-                    "name": "Jane Doe",
-                    "career": "Cool job",
-                    "path": "/testjane"
-                },
-                {
-                    "img": "https://res.cloudinary.com/mymediacreative/image/upload/v1645693934/blog-placeholder_csxpbc.png",
-                    "name": "Tony",
-                    "career": "Math Man",
-                    "path": "/tony"
                 }
             ],
             "inActionBlurb": "We met with dozens of young leaders across the country to explore the different ways you can take action against climate change. Here are some of their stories.",
-            "inActionVid": "https://vimeo.com/734166691?embedded=true&source=vimeo_logo&owner=167818781",
+            "inActionVid": "https://vimeo.com/734166691/2f058fe7fd",
             "starterPack": "",
             "careers": "Digital Designer • Facilitator • Curator • Musician"
         },
