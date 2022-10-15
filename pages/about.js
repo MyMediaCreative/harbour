@@ -77,11 +77,6 @@ const About = ({ homepage }) => {
               </div>
           </div>
 
-          <div style={{position: "relative"}}>
-            <Spacer h="30px" />
-            <Divider />
-          </div>
-
         <div className="abt-rows">
           <AboutCard person={tristan} />
           <AboutCard person={ella} />
