@@ -112,7 +112,11 @@ export default function Page( p ) {
             />
             <Spacer h="30px" /> 
         </div>
-        <Divider b="0"/>
+
+        <div className="arch-profile">
+            <Divider b="0"/>
+        </div>
+            
         <Spacer h="200px" />
 
         <div className="starter-pack">
@@ -135,7 +139,7 @@ export default function Page( p ) {
             <Spacer h="30px" />
         </div>
         <div className="arch-profile">
-            <div style={{ textAlign: "center" }}>
+            <div>
                 <img src={ page.inAction[0].img } />
                 <h3> { page.inAction[0].name }</h3>
                 <p> <em> { page.inAction[0].career } </em> </p>
