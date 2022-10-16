@@ -113,11 +113,11 @@ export default function Page( p ) {
         </div>
 
         <div className="arch-profile">
-            <Spacer h="60px" />
+            <Spacer h="150px" />
             <Divider b="0"/>
         </div>
             
-        <Spacer h="200px" />
+        <Spacer h="150px" />
 
         <div className="starter-pack">
             <img src="https://res.cloudinary.com/mymediacreative/image/upload/v1657729407/the%20harbour/archetype%20pages/StarterPack_gpchsy.png" />
