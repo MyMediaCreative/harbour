@@ -25,6 +25,12 @@
                 },
                 {
                     "img": "",
+                    "name": "Jane Doe",
+                    "career": "Cool job",
+                    "path": "/testjane"
+                },
+                {
+                    "img": "",
                     "name": "Dom Petti",
                     "career": "Math Man",
                     "path": "/dompetti"
