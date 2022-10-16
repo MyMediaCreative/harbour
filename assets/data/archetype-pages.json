@@ -19,7 +19,7 @@
             "inAction": [
                {
                     "img": "",
-                    "name": "Jane Doe",
+                    "name": "Test",
                     "career": "Cool job",
                     "path": "/testjane"
                 },
@@ -60,7 +60,7 @@
             "inAction": [
                 {
                     "img": "",
-                    "name": "Jane Doe",
+                    "name": "Test2",
                     "career": "Cool job",
                     "path": "/testjane"
                 },
