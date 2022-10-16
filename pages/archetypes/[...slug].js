@@ -111,19 +111,6 @@ export default function Page( p ) {
                 height=""
             />
         </div>
-        <Spacer h="30px" />
-        <div className="arch-profile">
-            <div>
-                <img src={ page.inAction[0].img } />
-                <h3> { page.inAction[0].name }</h3>
-                <p> <em> { page.inAction[0].career } </em> </p>
-                <Spacer h="15px" />
-                <a className="arrow-link" href={"/interviews" + page.inAction[0].path}> View Profile </a>
-            </div>
-
-            <Divider b="-120px"/>
-        </div>
-
         <Spacer h="200px" />
 
         <div className="starter-pack">
@@ -143,6 +130,18 @@ export default function Page( p ) {
             <Spacer h="30px" />
             <h1> Careers </h1>
             <h3> {page.careers} </h3>
+                    <Spacer h="30px" />
+        <div className="arch-profile">
+            <div>
+                <img src={ page.inAction[0].img } />
+                <h3> { page.inAction[0].name }</h3>
+                <p> <em> { page.inAction[0].career } </em> </p>
+                <Spacer h="15px" />
+                <a className="arrow-link" href={"/interviews" + page.inAction[0].path}> View Profile </a>
+            </div>
+
+            <Divider b="-120px"/>
+        </div>
             <Spacer h="70px" />
             <Divider b="0px"/>
         </div>
@@ -150,8 +149,8 @@ export default function Page( p ) {
         <div className="starter-pack">
             <Spacer h="60px" />
             <h1> Connect to others in the movement </h1>
-            <Spacer h="20px" />
-            <p>Sign up below to be connected with another member of the climate movement for a quick Zoom chat. We'll look at your profiles and pair you up based on shared interests. </p>
+            <Spacer h="10px" />
+            <p>Sign up below to be connected with another member of the climate movement for a quick Zoom chat. We'll look at your profiles and make an email introduction based on shared interests. </p>
             <Spacer h="20px" />
             <a href={page.starterPack} className="arrow-link">Sign Up</a>
             <Spacer h="20px" />
