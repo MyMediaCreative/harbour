@@ -112,6 +112,14 @@ export default function Page( p ) {
             />
         </div>
         <Spacer h="30px" />
+         <div className="arch-profile">
+            <div>
+                <img src={ page.inAction[0].img } />
+                <h3> { page.inAction[0].name }</h3>
+                <p> <em> { page.inAction[0].career } </em> </p>
+                <Spacer h="15px" />
+                <a className="arrow-link" href={"/interviews" + page.inAction[0].path}> View Profile </a>
+            </div>
        
             <Divider b="-120px"/>
         </div>
