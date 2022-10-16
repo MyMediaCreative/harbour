@@ -3,7 +3,7 @@
         {
             "title": "The Artist",
             "path": "/artist",
-            "seoDesc": "This is SEO description",
+            "seoDesc": "The Artist makes the climate movement irresistible.",
             "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_2000/v1657362375/the%20harbour/archetype%20illustrations/Artist_gblz0z.png",
             "mobileheaderimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1657362432/the%20harbour/archetype%20illustrations/Artist-square_ejnhps.png",
             "quote": "The role of the artist is to make <br />the revolution irresistible.",
@@ -25,18 +25,12 @@
                 },
                 {
                     "img": "",
-                    "name": "Jane Doe",
-                    "career": "Cool job",
-                    "path": "/testjane"
-                },
-                {
-                    "img": "",
                     "name": "Dom Petti",
                     "career": "Math Man",
                     "path": "/dompetti"
                 }
             ],
-            "inActionBlurb": "We met with dozens of young leaders across the country to explore the different ways you can take action against climate change. Here are some of their stories.",
+            "inActionBlurb": "Meet Fawn-Logan Young—a creator and facilitator based in Nova Scotia. She's helping us build empathetic relationships to the planet, and each other. Get involved with her work here.",
             "inActionVid": "https://vimeo.com/734166691/2f058fe7fd",
             "starterPack": "",
             "careers": "Digital Designer • Facilitator • Curator • Musician"
@@ -44,7 +38,7 @@
         {
             "title": "The Storyteller",
             "path": "/storyteller",
-            "seoDesc": "This is SEO description",
+            "seoDesc": "The storyteller moves people to take climate action",
             "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1657362371/the%20harbour/archetype%20illustrations/Storyteller_woozrh.png",
             "mobileheaderimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1657362484/the%20harbour/archetype%20illustrations/Storyteller-square_wwleoc.png",
             "quote": "For The Storyteller, the only thing more satisfying than hearing a good story is telling one.",
@@ -77,7 +71,7 @@
                     "path": "/dompetti"
                 }
             ],
-            "inActionBlurb": "We met with dozens of young leaders across the country to explore the different ways you can take action against climate change. Here are some of their stories.",
+            "inActionBlurb": "Meet Serena Mendizabal, a storyteller and policy change-maker that is putting indigenous governance at the core of climate justice. Get involved with her work here.",
             "inActionVid": "https://vimeo.com/734166691/2f058fe7fd",
             "starterPack": "",
             "careers": "Climate Journalist • Documentary Filmmaker • Influencer • Climate Fiction Author"
@@ -118,15 +112,15 @@
                     "path": "/dompetti"
                 }
             ],
-            "inActionBlurb": "We met with dozens of young leaders across the country to explore the different ways you can take action against climate change. Here are some of their stories.",
-            "inActionVid": "https://vimeo.com/681645746?embedded=true&source=vimeo_logo&owner=167818781",
+            "inActionBlurb": "Meet Fawn-Logan Young—a creator and facilitator based in Nova Scotia. She's helping us build empathetic relationships to the planet, and each other. Get involved with her work here.",
+            "inActionVid": "https://vimeo.com/734166691/2f058fe7fd",
             "starterPack": "",
             "careers": "Educator • Disaster Relief Worker • International Aid/Development Officer Conservationist • Advocate"
         },
         {
             "title": "The Organizer",
             "path": "/organizer",
-            "seoDesc": "This is SEO description",
+            "seoDesc": "The Organizer keeps the movement on track towards change.",
             "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1657362372/the%20harbour/archetype%20illustrations/Organizer_l9unwg.png",
             "mobileheaderimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1657362470/the%20harbour/archetype%20illustrations/Organizer-square_h0ix8t.png",
             "quote": "There is no power for change greater than a community discovering what it cares about.",
@@ -159,8 +153,8 @@
                     "path": "/dompetti"
                 }
             ],
-            "inActionBlurb": "We met with dozens of young leaders across the country to explore the different ways you can take action against climate change. Here are some of their stories.",
-            "inActionVid": "https://vimeo.com/681645746?embedded=true&source=vimeo_logo&owner=167818781",
+            "inActionBlurb": "Meet Olivia Champagne, an organizer and socialist-entrepreneur from Montreal. She is building cooperative alternatives to the capitalist system for a sustainable future. Get involved with her work here.",
+            "inActionVid": "https://vimeo.com/734166691/2f058fe7fd",
             "starterPack": "",
             "careers": "Advocacy Professional • Union Representative • Movement Founder March Leader • Politician"
         },
@@ -200,8 +194,8 @@
                     "path": "/dompetti"
                 }
             ],
-            "inActionBlurb": "We met with dozens of young leaders across the country to explore the different ways you can take action against climate change. Here are some of their stories.",
-            "inActionVid": "https://vimeo.com/681645746?embedded=true&source=vimeo_logo&owner=167818781",
+            "inActionBlurb": "Meet Maka Ngulube, a researcher based on Nova Scotia whose work focuses on using nature-based solutions to mitigate the impacts of climate change. Get involved with her work here.",
+            "inActionVid": "https://vimeo.com/734166691/2f058fe7fd",
             "starterPack": "",
             "careers": "Climate Tech Founder • Strategist • Convenor • Environmental Lawyer • Green Asset Manager Policy Analyst • Energy Sector Executive • Politician"
         },
@@ -241,8 +235,8 @@
                     "path": "/dompetti"
                 }
             ],
-            "inActionBlurb": "We met with dozens of young leaders across the country to explore the different ways you can take action against climate change. Here are some of their stories.",
-            "inActionVid": "https://vimeo.com/681645746?embedded=true&source=vimeo_logo&owner=167818781",
+            "inActionBlurb": "Meet Maka Ngulube, a researcher based on Nova Scotia whose work focuses on using nature-based solutions to mitigate the impacts of climate change. Get involved with her work here.",
+            "inActionVid": "https://vimeo.com/734166691/2f058fe7fd",
             "starterPack": "",
             "careers": "Researcher • Start-up Founder • Climate Science Journalist Science Communicator • Energy Industry Process Engineer"
         },
@@ -282,8 +276,8 @@
                     "path": "/dompetti"
                 }
             ],
-            "inActionBlurb": "We met with dozens of young leaders across the country to explore the different ways you can take action against climate change. Here are some of their stories.",
-            "inActionVid": "https://vimeo.com/681645746?embedded=true&source=vimeo_logo&owner=167818781",
+            "inActionBlurb": "Meet Olivia Champagne, an organizer and socialist-entrepreneur from Montreal. She is building cooperative alternatives to the capitalist system for a sustainable future. Get involved with her work here.",
+            "inActionVid": "https://vimeo.com/734166691/2f058fe7fd",
             "starterPack": "",
             "careers": "Non-Profit Director • Start-up/Social Enterprise Founder • Program Designer • Politician"
         },
@@ -323,8 +317,8 @@
                     "path": "/dompetti"
                 }
             ],
-            "inActionBlurb": "We met with dozens of young leaders across the country to explore the different ways you can take action against climate change. Here are some of their stories.",
-            "inActionVid": "https://vimeo.com/681645746?embedded=true&source=vimeo_logo&owner=167818781",
+            "inActionBlurb": "Meet Serena Mendizabal, a storyteller and policy change-maker that is putting indigenous governance at the core of climate justice. Get involved with her work here.",
+            "inActionVid": "https://vimeo.com/734166691/2f058fe7fd",
             "starterPack": "",
             "careers": "Policy Analyst • Environmental Lawyer • Sustainability Consultant • Politician Non-Profit Director • Partnerships / Philanthropy Manager"
         }
