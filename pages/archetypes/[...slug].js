@@ -111,7 +111,7 @@ export default function Page( p ) {
                 height=""
             />
         </div>
-        <Spacer h="20px" />
+        <Spacer h="30px" />
         <div className="arch-profile">
             <div>
                 <img src={ page.inAction[0].img } />
@@ -119,20 +119,6 @@ export default function Page( p ) {
                 <p> <em> { page.inAction[0].career } </em> </p>
                 <Spacer h="15px" />
                 <a className="arrow-link" href={"/interviews" + page.inAction[0].path}> View Profile </a>
-            </div>
-            <div>
-                <img src={ page.inAction[1].img } />
-                <h3> { page.inAction[1].name }</h3>
-                <p> <em> { page.inAction[1].career } </em> </p>
-                <Spacer h="15px" />
-                <a className="arrow-link" href={"/interviews" + page.inAction[1].path}> View Profile </a>
-            </div>
-            <div>
-                <img src={ page.inAction[2].img } />
-                <h3> { page.inAction[2].name }</h3>
-                <p> <em> { page.inAction[2].career } </em> </p>
-                <Spacer h="15px" />
-                <a className="arrow-link" href={"/interviews" + page.inAction[2].path}> View Profile </a>
             </div>
 
             <Divider b="-120px"/>
@@ -163,9 +149,9 @@ export default function Page( p ) {
 
         <div className="starter-pack">
             <Spacer h="60px" />
-            <h1> Outlink for feedback here </h1>
+            <h1> Connect to others in the movement </h1>
             <Spacer h="20px" />
-            <a href={page.starterPack} className="arrow-link">CTA Here</a>
+            <a href={page.starterPack} className="arrow-link">Sign Up</a>
             <Spacer h="20px" />
         </div>
       </div>
