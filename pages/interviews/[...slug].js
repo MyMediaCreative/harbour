@@ -57,23 +57,6 @@ export default function Page ( p ) {
                     <Spacer h="50px"/>
 
                     <div>
-                        <h2 style={{ color: "var(--dorange)", fontStyle: "italic" }}>My average day.</h2>
-                        <div className="avgDay">
-                            { page.avgDay.map(day => (
-                                    <>
-                                    <div>
-                                        <h6>{day.time}</h6>
-                                        <h3>{day.activity}</h3>
-                                        <p>{day.description}</p>
-                                    </div>
-                                    </>
-                                )
-                            )}
-                        </div>
-                    </div>
-                    <Spacer h="50px"/>
-
-                    <div>
                         <h2 style={{ color: "var(--dorange)", fontStyle: "italic" }}>{ page.twoQ }</h2>
                         <p>{ page.twoA }</p>
                     </div>
@@ -84,24 +67,6 @@ export default function Page ( p ) {
                         <p>{ page.threeA }</p>
                     </div>
                     <Spacer h="50px"/>
-
-                    <div>
-                        <h2 style={{ color: "var(--dorange)", fontStyle: "italic" }}>
-                            {page.name}&#39;s starter pack:
-                        </h2>
-                        <div className="starterPack">
-                            { page.starterPack.map(res => (
-                                    <>
-                                        <div>
-                                            <h3>{res.title}</h3>
-                                            <p>{res.type}</p>
-                                            <button className="arrow-link" style={{}}><a href={res.link}>View Resource</a></button>
-                                        </div>
-                                    </>
-                                )
-                            )}
-                        </div>
-                    </div>
 
                 </div>
 
