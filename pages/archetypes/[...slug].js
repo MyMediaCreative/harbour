@@ -111,18 +111,8 @@ export default function Page( p ) {
                 height=""
             />
         </div>
-        <Spacer h="30px" />
-         <div className="arch-profile">
-            <div>
-                <img src={ page.inAction[0].img } />
-                <h3> { page.inAction[0].name }</h3>
-                <p> <em> { page.inAction[0].career } </em> </p>
-                <Spacer h="15px" />
-                <a className="arrow-link" href={"/interviews" + page.inAction[0].path}> View Profile </a>
-            </div>
-       
-            <Divider b="-120px"/>
-        </div>
+        <Spacer h="30px" />        
+        <Divider b="-120px"/>
 
         <Spacer h="200px" />
 
@@ -143,8 +133,17 @@ export default function Page( p ) {
             <Spacer h="30px" />
             <h1> Careers </h1>
             <h3> {page.careers} </h3>
-            <Spacer h="70px" />
-            <Divider b="0px"/>
+            <Spacer h="30px" />
+        </div>
+        <div className="arch-profile">
+            <div>
+                <img src={ page.inAction[0].img } />
+                <h3> { page.inAction[0].name }</h3>
+                <p> <em> { page.inAction[0].career } </em> </p>
+                <Spacer h="15px" />
+                <a className="arrow-link" href={"/interviews" + page.inAction[0].path}> View Profile </a>
+                <Divider b="0px"/>
+            </div>
         </div>
 
         <div className="starter-pack">
