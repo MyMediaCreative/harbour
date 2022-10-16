@@ -113,7 +113,7 @@ export default function Page( p ) {
         </div>
 
         <div className="arch-profile">
-            <Spacer h="20px" />
+            <Spacer h="60px" />
             <Divider b="0"/>
         </div>
             
