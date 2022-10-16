@@ -111,7 +111,7 @@ export default function Page( p ) {
                 height=""
             />
             <Spacer h="30px" />        
-            <Divider b="-120px"/>
+            <Divider b="0"/>
         </div>
 
         <Spacer h="200px" />
