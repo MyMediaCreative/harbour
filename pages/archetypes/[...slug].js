@@ -110,10 +110,10 @@ export default function Page( p ) {
                 width=""
                 height=""
             />
-            <Spacer h="30px" /> 
         </div>
 
         <div className="arch-profile">
+            <Spacer h="20px" />
             <Divider b="0"/>
         </div>
             
