@@ -145,7 +145,7 @@ export default function Page( p ) {
                 <p> <em> { page.inAction[0].career } </em> </p>
                 <Spacer h="15px" />
                 <a className="arrow-link" href={"/interviews" + page.inAction[0].path}> View Profile </a>
-                <Spacer h="30px" />
+                <Spacer h="60px" />
                 <Divider b="0px"/>
             </div>
         </div>
