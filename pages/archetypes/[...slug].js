@@ -110,10 +110,9 @@ export default function Page( p ) {
                 width=""
                 height=""
             />
-            <Spacer h="30px" />        
-            <Divider b="0"/>
+            <Spacer h="30px" /> 
         </div>
-
+        <Divider b="0"/>
         <Spacer h="200px" />
 
         <div className="starter-pack">
