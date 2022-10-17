@@ -103,26 +103,16 @@
                     "title": "Still Hopeful: Lessons from a Lifetime of Activism by Maude Barlow",
                     "type": "Book",
                     "link": "https://www.goodreads.com/en/book/show/59034563-still-hopeful"
-                },
-                {
-                    "title": "Grouse",
-                    "type": "Podcast",
-                    "link": "https://www.npr.org/podcasts/913607568/grouse"
-                },
-                {
-                    "title": " Toronto Star's reporting on Grassy Narrows",
-                    "type": "Articles",
-                    "link": "https://www.thestar.com/news/grassy-narrows.html"
                 }
             ]
         },
         {
-            "name": "Kasha Sequoia Slavner",
+            "name": "Emma McIntosh",
             "path": "/kasha",
             "seoDesc": "This is SEO description",
-            "headline": "Documentary Filmmaker",
+            "headline": "Reporter",
             "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1665789278/the%20harbour/interviews/emma_uftmz5.png",
-            "age": "24",
+            "age": "26",
             "occupation": "Director of 1.5 Degrees of Peace, Founder of Global Sunrise Project",
             "intro": " ",
             "oneQ": "My climate origin story:",
@@ -136,11 +126,6 @@
                     "title": "Meat the Future - Liz Marshall",
                     "type": "Documentary",
                     "link": "https://lizmars.com/portfolio/meat-the-future/"
-                },
-                {
-                    "title": "Earthrise Studio",
-                    "type": "Instagram Page",
-                    "link": "https://www.instagram.com/earthrise.studio"
                 }
             ]
         },
