@@ -22,18 +22,6 @@
                     "name": "Sylvie Stojanovski",
                     "career": "Cool job",
                     "path": "/sylvie"
-                },
-                {
-                    "img": "",
-                    "name": "Jane Doe",
-                    "career": "Cool job",
-                    "path": "/testjane"
-                },
-                {
-                    "img": "",
-                    "name": "Dom Petti",
-                    "career": "Math Man",
-                    "path": "/dompetti"
                 }
             ],
             "inActionBlurb": "Meet Fawn-Logan Young—a creator and facilitator based in Nova Scotia. She's helping us build empathetic relationships to the planet, and each other. Get involved with her work here.",
@@ -69,12 +57,6 @@
                     "name": "Kasha Sequoia Slavner",
                     "career": "Director of 1.5 Degrees of Peace, Founder of Global Sunrise Project",
                     "path": "/kasha"
-                },
-                {
-                    "img": "",
-                    "name": "Dom Petti",
-                    "career": "Math Man",
-                    "path": "/dompetti"
                 }
             ],
             "inActionBlurb": "Meet Serena Mendizabal, a storyteller and policy change-maker that is putting indigenous governance at the core of climate justice. Get involved with her work here.",
