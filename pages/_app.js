@@ -35,7 +35,6 @@ const Harbour = ({ Component, router, pageProps }) => {
             transition: opacity 450ms;
           }
         `}</style>
-      <h1 style={{color:"red", position: "fixed", bottom: "10px", right: "30px" }}> BETA </h1>
     </>
   )
 }
