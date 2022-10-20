@@ -148,6 +148,17 @@ export default function Page( p ) {
                 <Spacer h="60px" />
                 <Divider b="0px"/>
             </div>
+            {page.inAction.length == 2 &&
+            <div>
+                <img src={ page.inAction[1].img } />
+                <h3> { page.inAction[1].name }</h3>
+                <p> <em> { page.inAction[1].career } </em> </p>
+                <Spacer h="15px" />
+                <a className="arrow-link" href={"/interviews" + page.inAction[1].path}> View Profile </a>
+                <Spacer h="60px" />
+                <Divider b="0px"/>
+            </div>
+            }
         </div>
 
         <div className="starter-pack">
