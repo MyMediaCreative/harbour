@@ -1,66 +1,6 @@
 {
     "pages": [
         {
-            "name": "Jane Doe",
-            "path": "/testjane",
-            "seoDesc": "This is SEO description",
-            "headline": "Cool headline",
-            "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1645693934/blog-placeholder_csxpbc.png",
-            "age": "32",
-            "occupation": "Job Name",
-            "intro": "Introductory paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
-            "oneQ": "Testing the first question",
-            "oneA": "Testing a new answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
-            "avgDay": [
-                {
-                    "time": "9:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
-                },
-                {
-                    "time": "9:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
-                },
-                {
-                    "time": "9:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
-                },
-                {
-                    "time": "9:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
-                }
-            ],
-            "twoQ": "This is the second test question",
-            "twoA": "This is the second answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
-            "threeQ": "This is the third question",
-            "threeA": "This is the third answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
-            "starterPack": [
-                {
-                    "title": "Resource Title",
-                    "type": "Resource Type",
-                    "link": "https://github.com"
-                },
-                {
-                    "title": "Resource Title",
-                    "type": "Resource Type",
-                    "link": "https://github.com"
-                },
-                {
-                    "title": "Resource Title",
-                    "type": "Resource Type",
-                    "link": "https://github.com"
-                },
-                {
-                    "title": "Resource Title",
-                    "type": "Resource Type",
-                    "link": "https://github.com"
-                }
-            ]
-        },
-        {
             "name": "Alison Gu",
             "path": "/alison",
             "seoDesc": "This is SEO description",
