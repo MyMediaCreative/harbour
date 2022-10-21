@@ -174,10 +174,10 @@
             "fourP": "And we’re not just talking about “scientists” in the institutional sense. Anyone from a researcher to a traditional knowledge keeper fits the bill. Because ultimately, it’s people like you who are figuring out what’s happening and proposing solutions. Check out the resources below to find out how The Scientist champions climate action.",
             "inAction": [
                 {
-                    "img": "",
-                    "name": "Jane Doe",
-                    "career": "Cool job",
-                    "path": "/testjane"
+                    "img": "https://res.cloudinary.com/mymediacreative/image/upload/v1666310603/the%20harbour/interviews/nivatha_wtn504.png",
+                    "name": "Nivatha Balendra",
+                    "career": "CEO & Founder",
+                    "path": "/nivatha"
                 }
             ],
             "inActionBlurb": "Meet Maka Ngulube, a researcher based on Nova Scotia whose work focuses on using nature-based solutions to mitigate the impacts of climate change. Get involved with her work here.",
