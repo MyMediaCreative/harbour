@@ -11,19 +11,6 @@ const Home = ({ homepage }) => {
 
   return (
     <>
-    <Head>
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-WFZ41F550Q">
-      </script>
-    
-      <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-WFZ41F550Q');
-      </script>
-  
-   </Head>
       <div id="main-content">
         {/*<Seo seo={homepage.attributes.seo} />*/}
         <Nav seo={{title:"Home", desc:""}} />
