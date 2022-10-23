@@ -13,7 +13,14 @@ const Harbour = ({ Component, router, pageProps }) => {
   return (
     <>
       <Head>
-      {/*gtag here*/}
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-WFZ41F550Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WFZ41F550Q');
+</script>
       </Head>
       {/* header here*/}
         <PageTransition timeout={450} classNames="page-transition">
