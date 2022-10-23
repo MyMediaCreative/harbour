@@ -6,9 +6,9 @@ export const Seo = ({ seo }) => {
         // Page title
         metaTitle: `${seo.title} | ${siteName}`,
         // Get image for sharing URL
-        shareImage: "https://res.cloudinary.com/mymediacreative/image/upload/v1645815021/social-header_oizyqc.jpg",
+        shareImage: "https://res.cloudinary.com/mymediacreative/image/upload/v1657729344/the%20harbour/home%20page/home_collage_ntmu9l.png",
         // meta description, if this page has one
-        metaDescription: "My Media is a creative agency for social change.",
+        metaDescription: "Want to know where you fit in the climate movement? Take this quiz to find out.",
     }
 
   return (
