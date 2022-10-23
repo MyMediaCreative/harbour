@@ -12,19 +12,19 @@ const About = ({ homepage }) => {
     let tristan = { name: "Tristan Surman",
                     image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_900/v1657729362/the%20harbour/about%20page/Tristan_jn2efy.png",
                     li: "https://www.linkedin.com/in/tristan-surman/",
-                    desc: <>"I wish I could tell my younger self that one day I’d be making BuzzFeed quizzes for social change. It’d totally freak him out."</>,  };
+                    desc: <>"I wish I could tell my younger self that one day I’d be making quizzes for social change. It’d totally freak him out."</>,  };
     let ella    = { name: "Ella Roy",
                     image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_900/v1657729362/the%20harbour/about%20page/Ella_xflzcb.png",
                     li: "https://www.linkedin.com/in/ella-roy-433948156/",
-                    desc: <>"A little quote about what the harbour means to Liam"</>,  };
+                    desc: <>"This quiz will change your life like the "Which Frozen Character Are You" quiz changed mine."</>,  };
     let tony    = { name: "Tony Wang",
                     image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_900/v1657729361/the%20harbour/about%20page/Tony_eay37u.png",
                     li: "https://www.linkedin.com/in/tonywang99/",
-                    desc: <>"A little quote about what the harbour means to Boss Man Tony"</>,  };
+                    desc: <>"Is writing an internet quiz about climate activism the only thing I've used my Cognitive Science degree for since graduating? I'd rather not say."</>,  };
     let liam    = { name: "Liam Chung",
                     image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_900/v1657729362/the%20harbour/about%20page/Liam_w9pgs7.png",
                     li: "https://www.linkedin.com/in/liam-chung-9121a4151/",
-                    desc: <>"A little quote about what the harbour means to Liam"</>,  };
+                    desc: <>"Writing this quote is like writing code. I had to do it for this quiz to become a reality."</>,  };
 
   return (
     <>
