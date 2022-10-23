@@ -54,7 +54,7 @@ export const Footer = ({ }) => {
               </Link>
             </li>
             <li>
-              <Link href={`https://climatewarriorsquiz.com/archetypes`}>
+              <Link href={`https://twitter.com/MyMediaMTL`}>
                 <a target="_blank">
                   <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 792 612">
                   <rect x="156.9" y="66.9" className="st1" width="478.1" height="478.1"/>
