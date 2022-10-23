@@ -167,7 +167,7 @@ export default function Page( p ) {
             <Spacer h="10px" />
             <p>Sign up below to be connected with another member of the climate movement for a quick Zoom chat. We'll look at your profiles and make an email introduction based on shared interests. </p>
             <Spacer h="20px" />
-            <a href={page.starterPack} className="arrow-link">Sign Up</a>
+            <a href="https://forms.gle/PEWh6tAz2FxS3J7g7" className="arrow-link">Sign Up</a>
             <Spacer h="20px" />
         </div>
       </div>
