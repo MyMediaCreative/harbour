@@ -10,7 +10,7 @@ import ArchCard from "../components/arch-card"
 const Archetypes = ({ homepage }) => {
 
     let artist       = { name: "The Artist", slug: "artist",
-                         image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_900/v1657362432/the%20harbour/archetype%20illustrations/Artist-square_ejnhps.png", }
+                         image: "https://res.cloudinary.com/mymediacreative/image/upload/v1657362432/the%20harbour/archetype%20illustrations/Artist-square_ejnhps.png", }
     let caregiver    = { name: "The Caregiver", slug: "caregiver",
                          image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_900/v1657362449/the%20harbour/archetype%20illustrations/Caregiver-square_qq0lqy.png", }
     let storyteller  = { name: "The Storyteller", slug: "storyteller",
