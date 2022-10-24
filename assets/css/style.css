@@ -349,7 +349,8 @@ a:visited { color: inherit; text-decoration: none }
 .createdBy div:nth-of-type(2) { text-align: left }
 
 .abt-rows {
-
+  position: relative;
+  z-index: 1;
 }
 
 .abt-row { width: 100%; line-height: 1.2; display: inline-flex; align-items: flex-end; column-gap: 5%; margin: 100px 0 }

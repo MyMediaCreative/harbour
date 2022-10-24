@@ -98,10 +98,10 @@ export default function Page( p ) {
 
         <Spacer h="50px"/>
 
-      <div style={{ textAlign: "center" }}>
+        <div style={{ textAlign: "center", position: "relative" }}>
             <Spacer h="30px" />
         <h1>{page.title} in Action</h1>
-          <p>{page.inActionBlurb} <a style={{ textDecoration: "underline", fontSize: "inherit" }} href={page.inActionLink}>here.</a></p>
+            <p>{page.inActionBlurb} <a style={{ textDecoration: "underline", color: "black", fontSize: "inherit" }} href={page.inActionLink}>here.</a></p>
         <Spacer h="20px" />
         <div className="in-action-vid">
             <ReactPlayer

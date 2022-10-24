@@ -24,7 +24,7 @@ const About = ({ homepage }) => {
     let liam    = { name: "Liam Chung",
                     image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_600/v1657729362/the%20harbour/about%20page/Liam_w9pgs7.png",
                     li: "https://www.linkedin.com/in/liam-chung-9121a4151/",
-                    desc: <>"Writing this quote is like writing code. I had to do it for this quiz to become a reality."</>,  };
+                    desc: <>"How do I reckon with being the only non-creative at a creative agency? I don't have to, I coded this quiz to do it for me."</>,  };
 
   return (
     <>
